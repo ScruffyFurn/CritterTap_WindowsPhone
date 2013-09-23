@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{1bfed3b1-2363-4d81-8179-ce96b92af381}" Title="Critter Tap" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Mickey MacDonald" Description="Crtitter Tap for Windows Phone. Critter Tap is a whack - a - mole clone mostly made to show how to use certain technologies " Publisher="IrishMickey">
+    <IconPath IsRelative="true" IsResource="false">lolgo.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_MEDIALIB" />
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="CritterTapToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">lolgo.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>Critter Tap</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>

@@ -1,0 +1,1 @@
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLibContent\obj\Windows Phone\Release\CritterTapLibContent.contentprojResolveAssemblyReference.cache

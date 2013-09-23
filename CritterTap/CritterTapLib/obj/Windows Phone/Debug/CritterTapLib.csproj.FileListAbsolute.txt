@@ -1,0 +1,13 @@
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\cat.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\clock.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\dog.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\fox.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\mole.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\stars.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\background.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\Content\Assets\SpriteFont1.xnb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\CritterTapLib.dll
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\bin\Windows Phone\Debug\CritterTapLib.pdb
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\obj\Windows Phone\Debug\CritterTapLib.dll
+C:\GitHub\CritterTap_Phone_XAML\CritterTap\CritterTapLib\obj\Windows Phone\Debug\CritterTapLib.pdb
